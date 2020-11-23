@@ -11,5 +11,5 @@ Projeto contendo a estrutura inicial com as segintes configurações:
 Para criar novos projetos a partir dessa estutura basta utilizar o comando abaixo
 
 `
-npx degit [LINK_GITHUB] [NOME_DO_PROJETO]
+npx degit https://github.com/fabioceolin/react-nextjs-TS-structure [NOME_DO_PROJETO]
 `
